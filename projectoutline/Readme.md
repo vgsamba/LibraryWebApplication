@@ -6,13 +6,13 @@
 	The librarian can still Add, Delete and Checkout a books to user. 
 2. **Features**:
  
-	1.*User login*: called as MY Account, Users will be able to log in to the application and see what books checkedout to him 
+	1.*User login*: called as MY Account, Users will be able to log in to the application and see what books checkedout to that 			user
 
 	2.*Search*: Users/Librarian will be able to search for available books and do self checkout.
 
-	3.*Create /Review Post*: Users will be able to create new blog posts when logged in. New posts will appear in the user's 				 profile.
+	3.*Create Review/See Review post*: Users will be able to create a review or see reviews for a book when logged in. 
 
-	4.*Librarian checkout*: A Librarian can checkout books to a user who has an acoount.
+	4.*Librarian checkout*: Logged in Librarian can checkout books to a user who has an account..
 
 	5.*Librarian Add book*: Librarian can add books
 
