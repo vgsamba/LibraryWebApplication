@@ -1,5 +1,5 @@
 		
-					# Project Outline <h1> tag
+					Project Outline
 
 1. **Overview**: 
 	This is a library web application, this allows existing user to self checkout the books without  need to wait in line for librarian to help the user checkout books. And another new Review feature will be provided to user so that they can see and add reviews books. 
